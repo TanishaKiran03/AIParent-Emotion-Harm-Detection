@@ -43,3 +43,30 @@ AIParent-Emotion-Harm-Detection
 │   ├── emotion_model.zip
 │   └── harm_detection_model.zip
 └── README.md
+
+---
+
+## Pretrained Models
+
+The trained models are too large to store directly on GitHub.
+
+Download them here:
+
+- Emotion Model  
+  [https://drive.google.com/your-link](https://drive.google.com/file/d/1JT_UGkKHuPk1kUXMEufyE5Zbo1rVpS5y/view?usp=share_link)
+
+- Harm Detection Model  
+  [https://drive.google.com/your-link](https://drive.google.com/file/d/14OlsSN4yuh-86ZNcBjjUL84XzQLxhLFy/view?usp=share_link)
+
+
+
+
+
+
+
+
+
+
+
+
+
