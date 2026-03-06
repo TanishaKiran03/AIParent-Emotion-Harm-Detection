@@ -8,6 +8,10 @@ The system combines two transformer models:
 2. Harmful content detection using a fine-tuned DistilBERT toxicity classifier
 
 ---
+## Live Demo
+https://aiparent-emotion-detection.streamlit.app
+
+---
 
 ## Features
 - Emotion classification with top emotion scores
